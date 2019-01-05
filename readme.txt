@@ -1,5 +1,5 @@
-#解决
+﻿#解决
 from prompt_toolkit.contrib.completer import Word Completer
 报错问题
-prompt_toolkit.__version =1.0.0
+pip3 install prompt_toolkit.__version==1.0.0
 
